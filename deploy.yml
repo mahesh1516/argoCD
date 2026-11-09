@@ -19,6 +19,4 @@ spec:
           image: maheshnaramdas/app:javaapp
           ports:
             - containerPort: 80
-          resources:
-            requests:
-              cpu: 100m
+          
